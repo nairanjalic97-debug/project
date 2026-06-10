@@ -4,10 +4,10 @@ A development environment setup for working with AI-assisted coding tools in Cur
 
 ## Tools Installed
 
-- **Cursor** — AI-powered code editor
-- **Claude Code** — Claude extension for Cursor
-- **Codex** — OpenAI Codex extension for Cursor
-- **Git** — Version control (installed during repository setup)
+- **Cursor** - AI-powered code editor
+- **Claude Code** - Claude extension for Cursor
+- **Codex** - OpenAI Codex extension for Cursor
+- **Git** - Version control (installed during repository setup)
 
 ## Setup Steps Completed
 
